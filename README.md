@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+# Thoughts On An Article Related To Software Engineering
+[The world's 'first AI software engineer' isn't living up to expectations](https://www.itpro.com/software/development/the-worlds-first-ai-software-engineer-isnt-living-up-to-expectations-cognition-ais-devin-assistant-was-touted-as-a-game-changer-for-developers-but-so-far-its-fumbling-tasks-and-struggling-to-compete-with-human-workers)
+
+I had always wondered how a "full-stack" AI implementation of a software engineer would work, given that if a human software engineer uses AI, they at least have to formulate the prompts for it after understanding what is required from the project.
+Devin seems to exhibit some of the same pitfalls that other generative AI's do, namely "producing overly complex, unusable solutions", and a "tendency to press forward with tasks that weren’t actually possible." I think it's a universal experience for those who have used generative AI's to see completely incorrect rabbit holes which the AI would dive down, only being taken out of those rabbit holes once explicitly told by the user to.
+Personally, I don't think that any AI solution can completely replace people. They aren't infallible, and frequently require manual corrections to be done. However, it's interesting to see that these approaches are already being experimented within workplaces.
